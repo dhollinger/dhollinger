@@ -58,6 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1265](https://github.com/LunarVim/LunarVim/issues/1265) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+2. 💪 Opened PR [#3645](https://github.com/lutris/lutris/pull/3645) in [lutris/lutris](https://github.com/lutris/lutris)
+3. 🗣 Commented on [#3643](https://github.com/lutris/lutris/issues/3643) in [lutris/lutris](https://github.com/lutris/lutris)
+4. ❗️ Opened issue [#3643](https://github.com/lutris/lutris/issues/3643) in [lutris/lutris](https://github.com/lutris/lutris)
+5. 🗣 Commented on [#3712](https://github.com/ValveSoftware/Proton/issues/3712) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
   <!--END_SECTION:activity-->
 
 </details>
