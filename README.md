@@ -69,11 +69,9 @@
 
 ---
 
-<details>
-  <summary>Github Stats</summary>
+### Github Stats
 [![dhollinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhollinger&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![dhollinger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhollinger&count_private=true&theme=onedark&hide=c%2B%2B,c,html,cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</details>
 
 [website]: https://moduletux.com
 [twitter]: https://twitter.com/moduletux
