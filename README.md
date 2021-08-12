@@ -47,9 +47,6 @@
 
 <br />
 <br />
-
----
-
 <!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -60,8 +57,8 @@
 <details>
   <summary>Recent Github Activity</summary>
 
-  <!-- START_SECTION:activity -->
-  <!-- END_SECTION:activity -->
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 
 </details>
 
