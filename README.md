@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1305](https://github.com/LunarVim/LunarVim/issues/1305) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. 🗣 Commented on [#121](https://github.com/kabouzeid/nvim-lspinstall/issues/121) in [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall)
-3. 🗣 Commented on [#1265](https://github.com/LunarVim/LunarVim/issues/1265) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-4. 💪 Opened PR [#3645](https://github.com/lutris/lutris/pull/3645) in [lutris/lutris](https://github.com/lutris/lutris)
-5. 🗣 Commented on [#3643](https://github.com/lutris/lutris/issues/3643) in [lutris/lutris](https://github.com/lutris/lutris)
+1. 🗣 Commented on [#121](https://github.com/kabouzeid/nvim-lspinstall/issues/121) in [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall)
+2. ❗️ Opened issue [#1305](https://github.com/LunarVim/LunarVim/issues/1305) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+3. 🗣 Commented on [#121](https://github.com/kabouzeid/nvim-lspinstall/issues/121) in [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall)
+4. 🗣 Commented on [#1265](https://github.com/LunarVim/LunarVim/issues/1265) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+5. 💪 Opened PR [#3645](https://github.com/lutris/lutris/pull/3645) in [lutris/lutris](https://github.com/lutris/lutris)
   <!--END_SECTION:activity-->
 
 </details>
