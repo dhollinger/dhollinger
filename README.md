@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1305](https://github.com/LunarVim/LunarVim/issues/1305) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
-3. 💪 Opened PR [#72](https://github.com/kyazdani42/nvim-web-devicons/pull/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
-4. 💪 Opened PR [#652](https://github.com/ryanoasis/nerd-fonts/pull/652) in [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-5. 🗣 Commented on [#121](https://github.com/kabouzeid/nvim-lspinstall/issues/121) in [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall)
+1. 🗣 Commented on [#3645](https://github.com/lutris/lutris/issues/3645) in [lutris/lutris](https://github.com/lutris/lutris)
+2. 🗣 Commented on [#1305](https://github.com/LunarVim/LunarVim/issues/1305) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+3. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
+4. 💪 Opened PR [#72](https://github.com/kyazdani42/nvim-web-devicons/pull/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
+5. 💪 Opened PR [#652](https://github.com/ryanoasis/nerd-fonts/pull/652) in [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
   <!--END_SECTION:activity-->
 
 </details>
