@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/voxpupuli/webhook-go/pull/3) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 💪 Opened PR [#3](https://github.com/voxpupuli/webhook-go/pull/3) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🗣 Commented on [#3645](https://github.com/lutris/lutris/issues/3645) in [lutris/lutris](https://github.com/lutris/lutris)
-4. 🗣 Commented on [#1305](https://github.com/LunarVim/LunarVim/issues/1305) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-5. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
+1. 💪 Opened PR [#1187](https://github.com/neovim/nvim-lspconfig/pull/1187) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+2. ❗️ Opened issue [#1392](https://github.com/LunarVim/LunarVim/issues/1392) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+3. 🎉 Merged PR [#3](https://github.com/voxpupuli/webhook-go/pull/3) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 💪 Opened PR [#3](https://github.com/voxpupuli/webhook-go/pull/3) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 🗣 Commented on [#3645](https://github.com/lutris/lutris/issues/3645) in [lutris/lutris](https://github.com/lutris/lutris)
   <!--END_SECTION:activity-->
 
 </details>
