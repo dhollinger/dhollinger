@@ -59,10 +59,10 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/SmiteshP/nvim-gps/issues/11) in [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps)
-2. 💪 Opened PR [#11](https://github.com/SmiteshP/nvim-gps/pull/11) in [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps)
-3. 🗣 Commented on [#1187](https://github.com/neovim/nvim-lspconfig/issues/1187) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+2. 🗣 Commented on [#11](https://github.com/SmiteshP/nvim-gps/issues/11) in [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps)
+3. 💪 Opened PR [#11](https://github.com/SmiteshP/nvim-gps/pull/11) in [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps)
 4. 🗣 Commented on [#1187](https://github.com/neovim/nvim-lspconfig/issues/1187) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-5. 💪 Opened PR [#1187](https://github.com/neovim/nvim-lspconfig/pull/1187) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+5. 🗣 Commented on [#1187](https://github.com/neovim/nvim-lspconfig/issues/1187) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
   <!--END_SECTION:activity-->
 
 </details>
