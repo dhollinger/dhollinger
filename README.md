@@ -58,10 +58,10 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/voxpupuli/webhook-go/pull/5) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 💪 Opened PR [#4](https://github.com/voxpupuli/webhook-go/pull/4) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🗣 Commented on [#652](https://github.com/ryanoasis/nerd-fonts/issues/652) in [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-4. 🗣 Commented on [#11](https://github.com/SmiteshP/nvim-gps/issues/11) in [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps)
+1. 🎉 Merged PR [#5](https://github.com/voxpupuli/webhook-go/pull/5) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 💪 Opened PR [#5](https://github.com/voxpupuli/webhook-go/pull/5) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 💪 Opened PR [#4](https://github.com/voxpupuli/webhook-go/pull/4) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🗣 Commented on [#652](https://github.com/ryanoasis/nerd-fonts/issues/652) in [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 5. 🗣 Commented on [#11](https://github.com/SmiteshP/nvim-gps/issues/11) in [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps)
   <!--END_SECTION:activity-->
 
