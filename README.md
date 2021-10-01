@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/voxpupuli/webhook-go/pull/4) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 🎉 Merged PR [#5](https://github.com/voxpupuli/webhook-go/pull/5) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 💪 Opened PR [#5](https://github.com/voxpupuli/webhook-go/pull/5) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 💪 Opened PR [#4](https://github.com/voxpupuli/webhook-go/pull/4) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🗣 Commented on [#652](https://github.com/ryanoasis/nerd-fonts/issues/652) in [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+1. 💪 Opened PR [#6](https://github.com/voxpupuli/webhook-go/pull/6) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🎉 Merged PR [#4](https://github.com/voxpupuli/webhook-go/pull/4) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🎉 Merged PR [#5](https://github.com/voxpupuli/webhook-go/pull/5) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 💪 Opened PR [#5](https://github.com/voxpupuli/webhook-go/pull/5) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 💪 Opened PR [#4](https://github.com/voxpupuli/webhook-go/pull/4) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
