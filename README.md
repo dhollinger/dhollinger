@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/voxpupuli/webhook-go/pull/28) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 💪 Opened PR [#28](https://github.com/voxpupuli/webhook-go/pull/28) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🎉 Merged PR [#24](https://github.com/voxpupuli/webhook-go/pull/24) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 💪 Opened PR [#24](https://github.com/voxpupuli/webhook-go/pull/24) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🎉 Merged PR [#23](https://github.com/voxpupuli/webhook-go/pull/23) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🎉 Merged PR [#46](https://github.com/voxpupuli/puppet-puppetwebhook/pull/46) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
+2. 🎉 Merged PR [#28](https://github.com/voxpupuli/webhook-go/pull/28) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 💪 Opened PR [#28](https://github.com/voxpupuli/webhook-go/pull/28) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🎉 Merged PR [#24](https://github.com/voxpupuli/webhook-go/pull/24) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 💪 Opened PR [#24](https://github.com/voxpupuli/webhook-go/pull/24) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
