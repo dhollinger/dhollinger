@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/voxpupuli/puppet-puppetwebhook/issues/44) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
-2. ❗️ Closed issue [#44](https://github.com/voxpupuli/puppet-puppetwebhook/issues/44) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
-3. 🎉 Merged PR [#48](https://github.com/voxpupuli/puppet-puppetwebhook/pull/48) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
-4. 💪 Opened PR [#48](https://github.com/voxpupuli/puppet-puppetwebhook/pull/48) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
-5. 🎉 Merged PR [#46](https://github.com/voxpupuli/puppet-puppetwebhook/pull/46) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
+1. 💪 Opened PR [#29](https://github.com/voxpupuli/webhook-go/pull/29) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🗣 Commented on [#44](https://github.com/voxpupuli/puppet-puppetwebhook/issues/44) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
+3. ❗️ Closed issue [#44](https://github.com/voxpupuli/puppet-puppetwebhook/issues/44) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
+4. 🎉 Merged PR [#48](https://github.com/voxpupuli/puppet-puppetwebhook/pull/48) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
+5. 💪 Opened PR [#48](https://github.com/voxpupuli/puppet-puppetwebhook/pull/48) in [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook)
   <!--END_SECTION:activity-->
 
 </details>
