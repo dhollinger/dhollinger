@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
-2. 🗣 Commented on [#652](https://github.com/ryanoasis/nerd-fonts/issues/652) in [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-3. 🎉 Merged PR [#30](https://github.com/voxpupuli/webhook-go/pull/30) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 💪 Opened PR [#30](https://github.com/voxpupuli/webhook-go/pull/30) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🎉 Merged PR [#29](https://github.com/voxpupuli/webhook-go/pull/29) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+2. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
+3. 🗣 Commented on [#652](https://github.com/ryanoasis/nerd-fonts/issues/652) in [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+4. 🎉 Merged PR [#30](https://github.com/voxpupuli/webhook-go/pull/30) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 💪 Opened PR [#30](https://github.com/voxpupuli/webhook-go/pull/30) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
