@@ -59,10 +59,10 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3712](https://github.com/ValveSoftware/Proton/issues/3712) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-2. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+2. 🗣 Commented on [#3712](https://github.com/ValveSoftware/Proton/issues/3712) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
 3. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-4. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
-5. 🗣 Commented on [#652](https://github.com/ryanoasis/nerd-fonts/issues/652) in [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+4. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+5. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
   <!--END_SECTION:activity-->
 
 </details>
