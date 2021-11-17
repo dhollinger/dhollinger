@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#229](https://github.com/williamboman/nvim-lsp-installer/issues/229) in [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer)
-2. ❗️ Closed issue [#11](https://github.com/voxpupuli/webhook-go/issues/11) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🗣 Commented on [#11](https://github.com/voxpupuli/webhook-go/issues/11) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. ❗️ Closed issue [#10](https://github.com/voxpupuli/webhook-go/issues/10) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🗣 Commented on [#10](https://github.com/voxpupuli/webhook-go/issues/10) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+2. 🗣 Commented on [#229](https://github.com/williamboman/nvim-lsp-installer/issues/229) in [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer)
+3. ❗️ Closed issue [#11](https://github.com/voxpupuli/webhook-go/issues/11) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🗣 Commented on [#11](https://github.com/voxpupuli/webhook-go/issues/11) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. ❗️ Closed issue [#10](https://github.com/voxpupuli/webhook-go/issues/10) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
