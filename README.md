@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/flathub/us.zoom.Zoom/issues/296) in [flathub/us.zoom.Zoom](https://github.com/flathub/us.zoom.Zoom)
-2. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+1. 🎉 Merged PR [#33](https://github.com/voxpupuli/webhook-go/pull/33) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🗣 Commented on [#296](https://github.com/flathub/us.zoom.Zoom/issues/296) in [flathub/us.zoom.Zoom](https://github.com/flathub/us.zoom.Zoom)
 3. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
 4. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-5. 🗣 Commented on [#229](https://github.com/williamboman/nvim-lsp-installer/issues/229) in [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer)
+5. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
   <!--END_SECTION:activity-->
 
 </details>
