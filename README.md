@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
-2. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-3. 🗣 Commented on [#3712](https://github.com/ValveSoftware/Proton/issues/3712) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-4. 🎉 Merged PR [#35](https://github.com/voxpupuli/webhook-go/pull/35) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. ❗️ Opened issue [#36](https://github.com/voxpupuli/webhook-go/issues/36) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
+2. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
+3. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+4. 🗣 Commented on [#3712](https://github.com/ValveSoftware/Proton/issues/3712) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+5. 🎉 Merged PR [#35](https://github.com/voxpupuli/webhook-go/pull/35) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
