@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
+1. 💪 Opened PR [#2105](https://github.com/LunarVim/LunarVim/pull/2105) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 2. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
-3. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
-4. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-5. 🗣 Commented on [#3712](https://github.com/ValveSoftware/Proton/issues/3712) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+3. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
+4. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
+5. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
   <!--END_SECTION:activity-->
 
 </details>
