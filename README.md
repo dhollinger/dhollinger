@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2105](https://github.com/LunarVim/LunarVim/pull/2105) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
-3. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
-4. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
-5. 🗣 Commented on [#72](https://github.com/kyazdani42/nvim-web-devicons/issues/72) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
+1. ❗️ Closed issue [#13](https://github.com/voxpupuli/webhook-go/issues/13) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. ❗️ Opened issue [#39](https://github.com/voxpupuli/webhook-go/issues/39) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. ❗️ Opened issue [#38](https://github.com/voxpupuli/webhook-go/issues/38) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 💪 Opened PR [#2105](https://github.com/LunarVim/LunarVim/pull/2105) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+5. 🗣 Commented on [#264](https://github.com/Friendly0Fire/GW2Radial/issues/264) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
   <!--END_SECTION:activity-->
 
 </details>
