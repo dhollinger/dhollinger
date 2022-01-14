@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-2. 🎉 Merged PR [#40](https://github.com/voxpupuli/webhook-go/pull/40) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 💪 Opened PR [#40](https://github.com/voxpupuli/webhook-go/pull/40) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. ❗️ Closed issue [#13](https://github.com/voxpupuli/webhook-go/issues/13) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. ❗️ Opened issue [#39](https://github.com/voxpupuli/webhook-go/issues/39) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🗣 Commented on [#1319](https://github.com/pop-os/shell/issues/1319) in [pop-os/shell](https://github.com/pop-os/shell)
+2. 🗣 Commented on [#5258](https://github.com/ValveSoftware/Proton/issues/5258) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+3. 🎉 Merged PR [#40](https://github.com/voxpupuli/webhook-go/pull/40) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 💪 Opened PR [#40](https://github.com/voxpupuli/webhook-go/pull/40) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. ❗️ Closed issue [#13](https://github.com/voxpupuli/webhook-go/issues/13) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
