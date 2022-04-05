@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4099](https://github.com/lutris/lutris/issues/4099) in [lutris/lutris](https://github.com/lutris/lutris)
-2. 🎉 Merged PR [#46](https://github.com/voxpupuli/webhook-go/pull/46) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 💪 Opened PR [#46](https://github.com/voxpupuli/webhook-go/pull/46) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 🎉 Merged PR [#45](https://github.com/voxpupuli/webhook-go/pull/45) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 💪 Opened PR [#45](https://github.com/voxpupuli/webhook-go/pull/45) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 💪 Opened PR [#48](https://github.com/voxpupuli/webhook-go/pull/48) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🗣 Commented on [#4099](https://github.com/lutris/lutris/issues/4099) in [lutris/lutris](https://github.com/lutris/lutris)
+3. 🎉 Merged PR [#46](https://github.com/voxpupuli/webhook-go/pull/46) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 💪 Opened PR [#46](https://github.com/voxpupuli/webhook-go/pull/46) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 🎉 Merged PR [#45](https://github.com/voxpupuli/webhook-go/pull/45) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
