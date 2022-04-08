@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/voxpupuli/webhook-go/pull/48) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. ❗️ Closed issue [#47](https://github.com/voxpupuli/webhook-go/issues/47) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 💪 Opened PR [#48](https://github.com/voxpupuli/webhook-go/pull/48) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 🗣 Commented on [#4099](https://github.com/lutris/lutris/issues/4099) in [lutris/lutris](https://github.com/lutris/lutris)
-5. 🎉 Merged PR [#46](https://github.com/voxpupuli/webhook-go/pull/46) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+2. 💪 Opened PR [#50](https://github.com/voxpupuli/webhook-go/pull/50) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🎉 Merged PR [#48](https://github.com/voxpupuli/webhook-go/pull/48) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. ❗️ Closed issue [#47](https://github.com/voxpupuli/webhook-go/issues/47) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 💪 Opened PR [#48](https://github.com/voxpupuli/webhook-go/pull/48) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
