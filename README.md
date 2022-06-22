@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
-2. 🗣 Commented on [#321](https://github.com/flathub/com.visualstudio.code/issues/321) in [flathub/com.visualstudio.code](https://github.com/flathub/com.visualstudio.code)
-3. 🎉 Merged PR [#56](https://github.com/voxpupuli/webhook-go/pull/56) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 💪 Opened PR [#56](https://github.com/voxpupuli/webhook-go/pull/56) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🎉 Merged PR [#55](https://github.com/voxpupuli/webhook-go/pull/55) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. ❗️ Closed issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
+2. 🗣 Commented on [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
+3. 🗣 Commented on [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
+4. ❗️ Opened issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
+5. 🗣 Commented on [#321](https://github.com/flathub/com.visualstudio.code/issues/321) in [flathub/com.visualstudio.code](https://github.com/flathub/com.visualstudio.code)
   <!--END_SECTION:activity-->
 
 </details>
