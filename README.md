@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
-2. 🗣 Commented on [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
+1. 🗣 Commented on [#4099](https://github.com/lutris/lutris/issues/4099) in [lutris/lutris](https://github.com/lutris/lutris)
+2. ❗️ Closed issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
 3. 🗣 Commented on [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
-4. ❗️ Opened issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
-5. 🗣 Commented on [#321](https://github.com/flathub/com.visualstudio.code/issues/321) in [flathub/com.visualstudio.code](https://github.com/flathub/com.visualstudio.code)
+4. 🗣 Commented on [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
+5. ❗️ Opened issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
   <!--END_SECTION:activity-->
 
 </details>
