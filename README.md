@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6051](https://github.com/ValveSoftware/Proton/issues/6051) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-2. 🗣 Commented on [#116](https://github.com/Tinob/Ishiiruka/issues/116) in [Tinob/Ishiiruka](https://github.com/Tinob/Ishiiruka)
-3. 🗣 Commented on [#4099](https://github.com/lutris/lutris/issues/4099) in [lutris/lutris](https://github.com/lutris/lutris)
-4. ❗️ Closed issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
-5. 🗣 Commented on [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
+1. 💪 Opened PR [#9](https://github.com/flathub/org.freeciv.Freeciv/pull/9) in [flathub/org.freeciv.Freeciv](https://github.com/flathub/org.freeciv.Freeciv)
+2. 🗣 Commented on [#6051](https://github.com/ValveSoftware/Proton/issues/6051) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+3. 🗣 Commented on [#116](https://github.com/Tinob/Ishiiruka/issues/116) in [Tinob/Ishiiruka](https://github.com/Tinob/Ishiiruka)
+4. 🗣 Commented on [#4099](https://github.com/lutris/lutris/issues/4099) in [lutris/lutris](https://github.com/lutris/lutris)
+5. ❗️ Closed issue [#47](https://github.com/flathub/com.albiononline.AlbionOnline/issues/47) in [flathub/com.albiononline.AlbionOnline](https://github.com/flathub/com.albiononline.AlbionOnline)
   <!--END_SECTION:activity-->
 
 </details>
