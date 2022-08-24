@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/cemu-project/Cemu/issues/13) in [cemu-project/Cemu](https://github.com/cemu-project/Cemu)
+1. 🗣 Commented on [#320](https://github.com/Friendly0Fire/GW2Radial/issues/320) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
 2. 🗣 Commented on [#13](https://github.com/cemu-project/Cemu/issues/13) in [cemu-project/Cemu](https://github.com/cemu-project/Cemu)
-3. 💪 Opened PR [#9](https://github.com/flathub/org.freeciv.Freeciv/pull/9) in [flathub/org.freeciv.Freeciv](https://github.com/flathub/org.freeciv.Freeciv)
-4. 🗣 Commented on [#6051](https://github.com/ValveSoftware/Proton/issues/6051) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-5. 🗣 Commented on [#116](https://github.com/Tinob/Ishiiruka/issues/116) in [Tinob/Ishiiruka](https://github.com/Tinob/Ishiiruka)
+3. 🗣 Commented on [#13](https://github.com/cemu-project/Cemu/issues/13) in [cemu-project/Cemu](https://github.com/cemu-project/Cemu)
+4. 💪 Opened PR [#9](https://github.com/flathub/org.freeciv.Freeciv/pull/9) in [flathub/org.freeciv.Freeciv](https://github.com/flathub/org.freeciv.Freeciv)
+5. 🗣 Commented on [#6051](https://github.com/ValveSoftware/Proton/issues/6051) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
   <!--END_SECTION:activity-->
 
 </details>
