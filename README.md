@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/voxpupuli/webhook-go/pull/60) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 🗣 Commented on [#58](https://github.com/voxpupuli/webhook-go/issues/58) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🗣 Commented on [#59](https://github.com/voxpupuli/webhook-go/issues/59) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 🗣 Commented on [#1198](https://github.com/chrismaltby/gb-studio/issues/1198) in [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio)
-5. 🗣 Commented on [#320](https://github.com/Friendly0Fire/GW2Radial/issues/320) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
+1. ❗️ Closed issue [#57](https://github.com/voxpupuli/webhook-go/issues/57) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🎉 Merged PR [#60](https://github.com/voxpupuli/webhook-go/pull/60) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 💪 Opened PR [#60](https://github.com/voxpupuli/webhook-go/pull/60) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🗣 Commented on [#58](https://github.com/voxpupuli/webhook-go/issues/58) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 🗣 Commented on [#59](https://github.com/voxpupuli/webhook-go/issues/59) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
