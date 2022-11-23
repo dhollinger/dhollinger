@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#345](https://github.com/lyraproj/lyra/pull/345) in [lyraproj/lyra](https://github.com/lyraproj/lyra)
-2. 🗣 Commented on [#7464](https://github.com/ValveSoftware/steam-for-linux/issues/7464) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
-3. 🗣 Commented on [#70](https://github.com/voxpupuli/webhook-go/issues/70) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. ❗️ Closed issue [#59](https://github.com/voxpupuli/webhook-go/issues/59) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🗣 Commented on [#59](https://github.com/voxpupuli/webhook-go/issues/59) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🗣 Commented on [#70](https://github.com/voxpupuli/webhook-go/issues/70) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. ❌ Closed PR [#345](https://github.com/lyraproj/lyra/pull/345) in [lyraproj/lyra](https://github.com/lyraproj/lyra)
+3. 🗣 Commented on [#7464](https://github.com/ValveSoftware/steam-for-linux/issues/7464) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
+4. 🗣 Commented on [#70](https://github.com/voxpupuli/webhook-go/issues/70) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. ❗️ Closed issue [#59](https://github.com/voxpupuli/webhook-go/issues/59) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
