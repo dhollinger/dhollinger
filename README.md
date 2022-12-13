@@ -37,7 +37,7 @@
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 
-[<img align="left" alt="Hugo" width="26px" src="https://aws1.discourse-cdn.com/standard10/uploads/gohugo/original/2X/b/b91c8ab3a3c1c8679127cf049b46fa919e9e0e5c.png" />][website]
+[<img align="left" alt="Hugo" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/hugo/hugo-plain.svg" />][website]
 
 [<img align="left" alt="Gitlab" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" />][website]
 
