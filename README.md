@@ -27,7 +27,7 @@
 
 [<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go/go_128x128.png" />][website]
 
-[<img align="left" alt="Puppet" width="26px" src="https://zulipstaging.com/static/images/integrations/logos/puppet.svg" />][website]
+[<img align="left" alt="Puppet" width="26px" color="yellow" src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/498ebf372bfc84731df6fe9411c909b4e97b1ec0/src/svgs/puppet.svg" />][website]
 
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kubernetes/kubernetes-plain.svg" />][website]
 
