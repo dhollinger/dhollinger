@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/voxpupuli/webhook-go/pull/71) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 💪 Opened PR [#71](https://github.com/voxpupuli/webhook-go/pull/71) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🗣 Commented on [#70](https://github.com/voxpupuli/webhook-go/issues/70) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🗣 Commented on [#1777](https://github.com/helix-editor/helix/issues/1777) in [helix-editor/helix](https://github.com/helix-editor/helix)
+2. 🎉 Merged PR [#71](https://github.com/voxpupuli/webhook-go/pull/71) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 💪 Opened PR [#71](https://github.com/voxpupuli/webhook-go/pull/71) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 4. 🗣 Commented on [#70](https://github.com/voxpupuli/webhook-go/issues/70) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. ❌ Closed PR [#345](https://github.com/lyraproj/lyra/pull/345) in [lyraproj/lyra](https://github.com/lyraproj/lyra)
+5. 🗣 Commented on [#70](https://github.com/voxpupuli/webhook-go/issues/70) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
