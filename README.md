@@ -59,10 +59,10 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6498](https://github.com/ValveSoftware/Proton/issues/6498) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-2. 🗣 Commented on [#2732](https://github.com/LunarVim/LunarVim/issues/2732) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+2. 🗣 Commented on [#6498](https://github.com/ValveSoftware/Proton/issues/6498) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
 3. 🗣 Commented on [#2732](https://github.com/LunarVim/LunarVim/issues/2732) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-4. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-5. 🗣 Commented on [#1777](https://github.com/helix-editor/helix/issues/1777) in [helix-editor/helix](https://github.com/helix-editor/helix)
+4. 🗣 Commented on [#2732](https://github.com/LunarVim/LunarVim/issues/2732) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+5. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
   <!--END_SECTION:activity-->
 
 </details>
