@@ -5,8 +5,8 @@
 
 ## I'm a Husband, Father, Developer, SysAdmin, and all around Geek
 
-- I'm currently learning Go, Hugo, and whatever else I can
-- 2021 Goals: Find more ways I can give back and share my knowledge
+- I'm currently integrating back-end cloud systems with a Ruby on Rails app.
+- 2023 Goals: Jump on the Rust train and find more ways to contribute.
 - Fun facts:
   - I love playing board games
   - I enjoy taking a walk or run every night. You never know what you'll run into!
