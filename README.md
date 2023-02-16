@@ -58,10 +58,10 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#590](https://github.com/voxpupuli/puppet-r10k/pull/590) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
-2. 🗣 Commented on [#6498](https://github.com/ValveSoftware/Proton/issues/6498) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+1. 🎉 Merged PR [#1](https://github.com/dhollinger/github-readme-stats/pull/1) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
+2. 💪 Opened PR [#590](https://github.com/voxpupuli/puppet-r10k/pull/590) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
 3. 🗣 Commented on [#6498](https://github.com/ValveSoftware/Proton/issues/6498) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-4. 🗣 Commented on [#2732](https://github.com/LunarVim/LunarVim/issues/2732) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+4. 🗣 Commented on [#6498](https://github.com/ValveSoftware/Proton/issues/6498) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
 5. 🗣 Commented on [#2732](https://github.com/LunarVim/LunarVim/issues/2732) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
   <!--END_SECTION:activity-->
 
