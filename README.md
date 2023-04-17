@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4015](https://github.com/LunarVim/LunarVim/issues/4015) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. ❗️ Closed issue [#69](https://github.com/voxpupuli/webhook-go/issues/69) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🎉 Merged PR [#2](https://github.com/dhollinger/github-readme-stats/pull/2) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
-4. 💪 Opened PR [#72](https://github.com/voxpupuli/webhook-go/pull/72) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🎉 Merged PR [#1](https://github.com/dhollinger/github-readme-stats/pull/1) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
+1. 🎉 Merged PR [#4](https://github.com/dhollinger/github-readme-stats/pull/4) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
+2. 🗣 Commented on [#4015](https://github.com/LunarVim/LunarVim/issues/4015) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+3. ❗️ Closed issue [#69](https://github.com/voxpupuli/webhook-go/issues/69) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🎉 Merged PR [#2](https://github.com/dhollinger/github-readme-stats/pull/2) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
+5. 💪 Opened PR [#72](https://github.com/voxpupuli/webhook-go/pull/72) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
