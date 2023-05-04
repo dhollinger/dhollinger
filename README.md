@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#594](https://github.com/voxpupuli/puppet-r10k/pull/594) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
-2. 🎉 Merged PR [#5](https://github.com/dhollinger/github-readme-stats/pull/5) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
-3. 🎉 Merged PR [#1](https://github.com/dhollinger/x4_mods/pull/1) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-4. 💪 Opened PR [#1](https://github.com/dhollinger/x4_mods/pull/1) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-5. 🎉 Merged PR [#4](https://github.com/dhollinger/github-readme-stats/pull/4) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
+1. 🎉 Merged PR [#595](https://github.com/voxpupuli/puppet-r10k/pull/595) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
+2. 💪 Opened PR [#594](https://github.com/voxpupuli/puppet-r10k/pull/594) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
+3. 🎉 Merged PR [#5](https://github.com/dhollinger/github-readme-stats/pull/5) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
+4. 🎉 Merged PR [#1](https://github.com/dhollinger/x4_mods/pull/1) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+5. 💪 Opened PR [#1](https://github.com/dhollinger/x4_mods/pull/1) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
   <!--END_SECTION:activity-->
 
 </details>
