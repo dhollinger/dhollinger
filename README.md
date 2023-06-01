@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v2.1.0](https://github.com/Release v2.1.0) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 💪 Opened PR [#73](https://github.com/voxpupuli/webhook-go/pull/73) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🎉 Merged PR [#6](https://github.com/dhollinger/github-readme-stats/pull/6) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
-4. 🚀 Published release [SVE VRO Trimmed v1.2.1](https://github.com/SVE VRO Trimmed v1.2.1) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-5. 🎉 Merged PR [#594](https://github.com/voxpupuli/puppet-r10k/pull/594) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
+1. 🎉 Merged PR [#590](https://github.com/voxpupuli/puppet-r10k/pull/590) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
+2. 🚀 Published release [Release v2.1.0](https://github.com/Release v2.1.0) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 💪 Opened PR [#73](https://github.com/voxpupuli/webhook-go/pull/73) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🎉 Merged PR [#6](https://github.com/dhollinger/github-readme-stats/pull/6) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
+5. 🚀 Published release [SVE VRO Trimmed v1.2.1](https://github.com/SVE VRO Trimmed v1.2.1) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
   <!--END_SECTION:activity-->
 
 </details>
