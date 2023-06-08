@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/dhollinger/github-readme-stats/pull/7) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
-2. 💪 Opened PR [#598](https://github.com/voxpupuli/puppet-r10k/pull/598) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
-3. 🎉 Merged PR [#590](https://github.com/voxpupuli/puppet-r10k/pull/590) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
-4. 🚀 Published release [Release v2.1.0](https://github.com/Release v2.1.0) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 💪 Opened PR [#73](https://github.com/voxpupuli/webhook-go/pull/73) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🎉 Merged PR [#604](https://github.com/voxpupuli/puppet-r10k/pull/604) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
+2. 💪 Opened PR [#604](https://github.com/voxpupuli/puppet-r10k/pull/604) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
+3. 🎉 Merged PR [#603](https://github.com/voxpupuli/puppet-r10k/pull/603) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
+4. 💪 Opened PR [#603](https://github.com/voxpupuli/puppet-r10k/pull/603) in [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k)
+5. 🎉 Merged PR [#7](https://github.com/dhollinger/github-readme-stats/pull/7) in [dhollinger/github-readme-stats](https://github.com/dhollinger/github-readme-stats)
   <!--END_SECTION:activity-->
 
 </details>
