@@ -59,10 +59,10 @@
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#213](https://github.com/jackMort/ChatGPT.nvim/issues/213) in [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
-2. 🗣 Commented on [#70](https://github.com/voxpupuli/webhook-go/issues/70) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🎉 Merged PR [#91](https://github.com/voxpupuli/webhook-go/pull/91) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 🎉 Merged PR [#82](https://github.com/voxpupuli/webhook-go/pull/82) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🎉 Merged PR [#90](https://github.com/voxpupuli/webhook-go/pull/90) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🗣 Commented on [#213](https://github.com/jackMort/ChatGPT.nvim/issues/213) in [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+3. 🗣 Commented on [#70](https://github.com/voxpupuli/webhook-go/issues/70) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🎉 Merged PR [#91](https://github.com/voxpupuli/webhook-go/pull/91) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 🎉 Merged PR [#82](https://github.com/voxpupuli/webhook-go/pull/82) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
