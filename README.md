@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [SVE VRO Trimmed v1.2.2](https://github.com/dhollinger/x4_mods/releases/tag/v1.2.2-sve-trim) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-2. 🚀 Published release [Ship Variation Expansion VRO v5.0.3](https://github.com/dhollinger/x4_mods/releases/tag/v5.0.3-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-3. 🗣 Commented on [#1622](https://github.com/NPBruce/valkyrie/pull/1622#issuecomment-1679550256) in [NPBruce/valkyrie](https://github.com/NPBruce/valkyrie)
-4. 🗣 Commented on [#1622](https://github.com/NPBruce/valkyrie/pull/1622#issuecomment-1678999565) in [NPBruce/valkyrie](https://github.com/NPBruce/valkyrie)
-5. ❗ Opened issue [#50](https://github.com/GlowPuff/ImperialCommander2/issues/50) in [GlowPuff/ImperialCommander2](https://github.com/GlowPuff/ImperialCommander2)
+1. 🎉 Merged PR [#11](https://github.com/dhollinger/lutris_installers/pull/11) in [dhollinger/lutris_installers](https://github.com/dhollinger/lutris_installers)
+2. 🚀 Published release [SVE VRO Trimmed v1.2.2](https://github.com/dhollinger/x4_mods/releases/tag/v1.2.2-sve-trim) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+3. 🚀 Published release [Ship Variation Expansion VRO v5.0.3](https://github.com/dhollinger/x4_mods/releases/tag/v5.0.3-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+4. 🗣 Commented on [#1622](https://github.com/NPBruce/valkyrie/pull/1622#issuecomment-1679550256) in [NPBruce/valkyrie](https://github.com/NPBruce/valkyrie)
+5. 🗣 Commented on [#1622](https://github.com/NPBruce/valkyrie/pull/1622#issuecomment-1678999565) in [NPBruce/valkyrie](https://github.com/NPBruce/valkyrie)
   <!--END_SECTION:activity-->
 
 </details>
