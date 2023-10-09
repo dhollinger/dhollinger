@@ -58,11 +58,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Weapon Variation Expansion VRO v2.0.2](https://github.com/dhollinger/x4_mods/releases/tag/v2.0.2-wve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-2. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344#issuecomment-1730786877) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-3. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344#issuecomment-1730786805) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-4. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344#issuecomment-1729805678) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-5. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344#issuecomment-1729780235) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+1. 🗣 Commented on [#404](https://github.com/flathub/us.zoom.Zoom/issues/404#issuecomment-1753210255) in [flathub/us.zoom.Zoom](https://github.com/flathub/us.zoom.Zoom)
+2. 🚀 Published release [Weapon Variation Expansion VRO v2.0.2](https://github.com/dhollinger/x4_mods/releases/tag/v2.0.2-wve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+3. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344#issuecomment-1730786877) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+4. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344#issuecomment-1730786805) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+5. 🗣 Commented on [#1344](https://github.com/ValveSoftware/Proton/issues/1344#issuecomment-1729805678) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
   <!--END_SECTION:activity-->
 
 </details>
