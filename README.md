@@ -31,8 +31,6 @@
 
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kubernetes/kubernetes-plain.svg" />][website]
 
-[<img align="left" alt="Helm" width="26px" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" />][website]
-
 [<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/googlecloud/googlecloud-original.svg" />][website]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
