@@ -56,11 +56,11 @@
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/voxpupuli/webhook-go/pull/139#issuecomment-1973904048) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 🗣 Commented on [#998](https://github.com/wimpysworld/deb-get/pull/998#issuecomment-1954872895) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-3. 🎉 Merged PR [#134](https://github.com/voxpupuli/webhook-go/pull/134) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 🗣 Commented on [#134](https://github.com/voxpupuli/webhook-go/pull/134#issuecomment-1937108213) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. ❗ Opened issue [#3224](https://github.com/pop-os/pop/issues/3224) in [pop-os/pop](https://github.com/pop-os/pop)
+1. 🗣 Commented on [#139](https://github.com/voxpupuli/webhook-go/pull/139#issuecomment-1974860533) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🎉 Merged PR [#139](https://github.com/voxpupuli/webhook-go/pull/139) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🗣 Commented on [#139](https://github.com/voxpupuli/webhook-go/pull/139#issuecomment-1973904048) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🗣 Commented on [#998](https://github.com/wimpysworld/deb-get/pull/998#issuecomment-1954872895) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+5. 🎉 Merged PR [#134](https://github.com/voxpupuli/webhook-go/pull/134) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
