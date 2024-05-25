@@ -41,16 +41,16 @@ I'm a backend developer from Nebraska:
     <img align="left" alt="Google Cloud" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/googlecloud/googlecloud-original.svg" />
 </div>
 
-
-
+<br />
+<br />
 
 ---
 
 ### :fire: My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhollinger&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhollinger&theme=onedark)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats-dhollinger.vercel.app/api/top-langs/?username=dhollinger&theme=dark&count_private=true&hide=c%2B%2B,c,java,ragel,glsl,html,cmake,makefile&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dhollinger.vercel.app/api/top-langs/?username=dhollinger&count_private=true&hide=c%2B%2B,c,java,ragel,glsl,html,cmake,makefile&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### 📕 Latest Blog Posts -->
 
