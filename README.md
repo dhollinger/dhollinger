@@ -63,11 +63,11 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/voxpupuli/webhook-go/issues/9#issuecomment-2408834042) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 🎉 Merged PR [#172](https://github.com/voxpupuli/webhook-go/pull/172) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🗣 Commented on [#331](https://github.com/Matoking/protontricks/issues/331#issuecomment-2348073036) in [Matoking/protontricks](https://github.com/Matoking/protontricks)
-4. 🗣 Commented on [#163](https://github.com/voxpupuli/webhook-go/issues/163#issuecomment-2311464911) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🎉 Merged PR [#171](https://github.com/voxpupuli/webhook-go/pull/171) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🚀 Published release [v1.3.0-sve-trim](https://github.com/dhollinger/x4_mods/releases/tag/v1.3.0-sve-trim) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+2. 🗣 Commented on [#9](https://github.com/voxpupuli/webhook-go/issues/9#issuecomment-2408834042) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🎉 Merged PR [#172](https://github.com/voxpupuli/webhook-go/pull/172) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🗣 Commented on [#331](https://github.com/Matoking/protontricks/issues/331#issuecomment-2348073036) in [Matoking/protontricks](https://github.com/Matoking/protontricks)
+5. 🗣 Commented on [#163](https://github.com/voxpupuli/webhook-go/issues/163#issuecomment-2311464911) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
