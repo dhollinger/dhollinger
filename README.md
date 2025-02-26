@@ -63,11 +63,11 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#245](https://github.com/voxpupuli/puppet-network/pull/245) in [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network)
-2. 🔒 Closed issue [#175](https://github.com/voxpupuli/webhook-go/issues/175) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🎉 Merged PR [#187](https://github.com/voxpupuli/webhook-go/pull/187) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 💪 Opened PR [#187](https://github.com/voxpupuli/webhook-go/pull/187) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🗣 Commented on [#175](https://github.com/voxpupuli/webhook-go/issues/175#issuecomment-2631907541) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🚀 Published release [v6.0.0-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.0.0-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+2. 🎉 Merged PR [#3](https://github.com/dhollinger/x4_mods/pull/3) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+3. 💪 Opened PR [#3](https://github.com/dhollinger/x4_mods/pull/3) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+4. ❌ Closed PR [#245](https://github.com/voxpupuli/puppet-network/pull/245) in [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network)
+5. 🔒 Closed issue [#175](https://github.com/voxpupuli/webhook-go/issues/175) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
