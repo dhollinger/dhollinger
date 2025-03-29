@@ -64,10 +64,10 @@ I'm a backend developer from Nebraska:
 
   <!--START_SECTION:activity-->
 1. 🚀 Published release [v6.2.1-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.1-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-2. 🚀 Published release [v6.2.0-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.0-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-3. 🚀 Published release [v6.1.0-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.1.0-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-4. 🗣 Commented on [#191](https://github.com/voxpupuli/webhook-go/issues/191#issuecomment-2731038417) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 🎉 Merged PR [#3](https://github.com/dhollinger/x4_mods/pull/3) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+2. 🚀 Published release [v6.2.1-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.1-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+3. 🚀 Published release [v6.2.0-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.0-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+4. 🚀 Published release [v6.1.0-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.1.0-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+5. 🗣 Commented on [#191](https://github.com/voxpupuli/webhook-go/issues/191#issuecomment-2731038417) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
