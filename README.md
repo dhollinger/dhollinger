@@ -63,11 +63,11 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#196](https://github.com/voxpupuli/webhook-go/pull/196) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 🚀 Published release [v6.2.1-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.1-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-3. 🚀 Published release [v6.2.1-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.1-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-4. 🚀 Published release [v6.2.0-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.0-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
-5. 🚀 Published release [v6.1.0-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.1.0-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+1. 🔒 Closed issue [#195](https://github.com/voxpupuli/webhook-go/issues/195) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🎉 Merged PR [#196](https://github.com/voxpupuli/webhook-go/pull/196) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 💪 Opened PR [#196](https://github.com/voxpupuli/webhook-go/pull/196) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🚀 Published release [v6.2.1-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.1-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
+5. 🚀 Published release [v6.2.1-sve](https://github.com/dhollinger/x4_mods/releases/tag/v6.2.1-sve) in [dhollinger/x4_mods](https://github.com/dhollinger/x4_mods)
   <!--END_SECTION:activity-->
 
 </details>
