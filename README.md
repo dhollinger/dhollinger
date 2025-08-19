@@ -63,11 +63,11 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#206](https://github.com/voxpupuli/webhook-go/pull/206) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 🎉 Merged PR [#205](https://github.com/voxpupuli/webhook-go/pull/205) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🗣 Commented on [#378](https://github.com/Friendly0Fire/GW2Radial/issues/378#issuecomment-3172345037) in [Friendly0Fire/GW2Radial](https://github.com/Friendly0Fire/GW2Radial)
-4. 🎉 Merged PR [#204](https://github.com/voxpupuli/webhook-go/pull/204) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-5. 💪 Opened PR [#3](https://github.com/university-of-york/sys-webhook-go/pull/3) in [university-of-york/sys-webhook-go](https://github.com/university-of-york/sys-webhook-go)
+1. 🗣 Commented on [#191](https://github.com/voxpupuli/webhook-go/issues/191#issuecomment-3198132460) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🗣 Commented on [#201](https://github.com/voxpupuli/webhook-go/issues/201#issuecomment-3198115209) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🔒 Closed issue [#201](https://github.com/voxpupuli/webhook-go/issues/201) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🎉 Merged PR [#206](https://github.com/voxpupuli/webhook-go/pull/206) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+5. 🎉 Merged PR [#205](https://github.com/voxpupuli/webhook-go/pull/205) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
 </details>
