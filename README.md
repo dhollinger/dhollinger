@@ -65,7 +65,7 @@ I'm a backend developer from Nebraska:
   <!--START_SECTION:activity-->
 1. ❗ Opened issue [#244](https://github.com/voxpupuli/webhook-go/issues/244) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 2. 🔒 Closed issue [#228](https://github.com/voxpupuli/webhook-go/issues/228) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. ❌ Merged PR [#229](undefined) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🎉 Merged PR [#229](https://github.com/voxpupuli/webhook-go/pull/229) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 4. 🔒 Closed issue [#201](https://github.com/voxpupuli/webhook-go/issues/201) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 5. 🎉 Merged PR [#206](https://github.com/voxpupuli/webhook-go/pull/206) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
