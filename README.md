@@ -63,7 +63,7 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#250](https://github.com/voxpupuli/webhook-go/pull/250) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🗣 Commented on [#45](https://github.com/hyprwm/hyprpolkitagent/issues/45#issuecomment-4028287700) in [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent)
 2. 💪 Opened PR [#250](https://github.com/voxpupuli/webhook-go/pull/250) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 3. ❗ Opened issue [#244](https://github.com/voxpupuli/webhook-go/issues/244) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 4. 🔒 Closed issue [#201](https://github.com/voxpupuli/webhook-go/issues/201) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
