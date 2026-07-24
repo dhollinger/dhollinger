@@ -63,9 +63,9 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/voxpupuli/gorge/issues/64#issuecomment-4523939811) in [voxpupuli/gorge](https://github.com/voxpupuli/gorge)
-2. 💪 Opened PR [#270](https://github.com/voxpupuli/webhook-go/pull/270) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🗣 Commented on [#45](https://github.com/hyprwm/hyprpolkitagent/issues/45#issuecomment-4028287700) in [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent)
+1. 🔒 Closed issue [#39](https://github.com/voxpupuli/webhook-go/issues/39) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. 🔒 Closed issue [#34](https://github.com/voxpupuli/webhook-go/issues/34) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🔒 Closed issue [#14](https://github.com/voxpupuli/webhook-go/issues/14) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 4. 🔒 Closed issue [#201](https://github.com/voxpupuli/webhook-go/issues/201) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 5. 🎉 Merged PR [#206](https://github.com/voxpupuli/webhook-go/pull/206) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
