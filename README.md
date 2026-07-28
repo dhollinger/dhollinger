@@ -63,10 +63,10 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#39](https://github.com/voxpupuli/webhook-go/issues/39) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 🔒 Closed issue [#34](https://github.com/voxpupuli/webhook-go/issues/34) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🔒 Closed issue [#14](https://github.com/voxpupuli/webhook-go/issues/14) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-4. 🔒 Closed issue [#201](https://github.com/voxpupuli/webhook-go/issues/201) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 💪 Opened PR [#313](https://github.com/runpod/runpodctl/pull/313) in [runpod/runpodctl](https://github.com/runpod/runpodctl)
+2. 🔒 Closed issue [#39](https://github.com/voxpupuli/webhook-go/issues/39) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🔒 Closed issue [#34](https://github.com/voxpupuli/webhook-go/issues/34) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+4. 🔒 Closed issue [#14](https://github.com/voxpupuli/webhook-go/issues/14) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 5. 🎉 Merged PR [#206](https://github.com/voxpupuli/webhook-go/pull/206) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
 
