@@ -63,11 +63,11 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#271](https://github.com/voxpupuli/g10k/pull/271) in [voxpupuli/g10k](https://github.com/voxpupuli/g10k)
-2. 🗣 Commented on [#271](https://github.com/voxpupuli/g10k/pull/271#issuecomment-5739607070) in [voxpupuli/g10k](https://github.com/voxpupuli/g10k)
-3. 💪 Opened PR [#271](https://github.com/voxpupuli/g10k/pull/271) in [voxpupuli/g10k](https://github.com/voxpupuli/g10k)
-4. 🎉 Merged PR [#270](https://github.com/voxpupuli/g10k/pull/270) in [voxpupuli/g10k](https://github.com/voxpupuli/g10k)
-5. 💪 Opened PR [#270](https://github.com/voxpupuli/g10k/pull/270) in [voxpupuli/g10k](https://github.com/voxpupuli/g10k)
+1. ℹ️ Assigned PR [#277](https://github.com/voxpupuli/webhook-go/pull/277) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. ℹ️ Assigned PR [#278](https://github.com/voxpupuli/webhook-go/pull/278) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 🎉 Merged PR [#271](https://github.com/voxpupuli/g10k/pull/271) in [voxpupuli/g10k](https://github.com/voxpupuli/g10k)
+4. 🗣 Commented on [#271](https://github.com/voxpupuli/g10k/pull/271#issuecomment-5739607070) in [voxpupuli/g10k](https://github.com/voxpupuli/g10k)
+5. 💪 Opened PR [#271](https://github.com/voxpupuli/g10k/pull/271) in [voxpupuli/g10k](https://github.com/voxpupuli/g10k)
   <!--END_SECTION:activity-->
 
 </details>
