@@ -63,9 +63,9 @@ I'm a backend developer from Nebraska:
   <summary>Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#289](https://github.com/voxpupuli/webhook-go/pull/289) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-2. 💪 Opened PR [#289](https://github.com/voxpupuli/webhook-go/pull/289) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
-3. 🎉 Merged PR [#282](https://github.com/voxpupuli/webhook-go/pull/282) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+1. 🎉 Merged PR [#289](https://github.com/voxpupuli/webhook-go/pull/289) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+2. ℹ️ Assigned PR [#289](https://github.com/voxpupuli/webhook-go/pull/289) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
+3. 💪 Opened PR [#289](https://github.com/voxpupuli/webhook-go/pull/289) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 4. ℹ️ Labeled PR [#282](https://github.com/voxpupuli/webhook-go/pull/282) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
 5. ℹ️ Assigned PR [#282](https://github.com/voxpupuli/webhook-go/pull/282) in [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go)
   <!--END_SECTION:activity-->
